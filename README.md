@@ -1,9 +1,10 @@
 # Nostalgic-Tuner-Music-Player
 
-This project is a Music Player with some nostalgic songs Website only using HTML , CSS & JS. An amazing and interesting website for all music lovers.
-Authors
+This project is a Music Player with some nostalgic songs, The wensite is made only using HTML , CSS & JS. An amazing and interesting website for all music lovers.
+
+Author
 @amanshrivastav2409
-Run Locally
+
 
 Clone the project
 git clone https://link-to-project
